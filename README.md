@@ -7,6 +7,7 @@
 ## Create virtual enviroment
 ```sh
 $ virtualenv -p python3 .env
+$ source .env/bin/activate
 ```
 
 ## Install mathplotlib
@@ -16,5 +17,5 @@ $ virtualenv -p python3 .env
 
 ## Run the script
 ```sh
-python3 worm_gear_efficiency.py
+(.env)$ python3 worm_gear_efficiency.py
 ```
