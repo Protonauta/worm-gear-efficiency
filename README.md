@@ -1,5 +1,9 @@
 # Worm gear efficiency simple plot
 
+![Worm gear eff](https://raw.githubusercontent.com/Protonauta/worm-gear-efficiency/master/worm_gear_eff.png)
+
+
+
 ## Create virtual enviroment
 ```sh
 $ virtualenv -p python3 .env
