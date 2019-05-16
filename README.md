@@ -1,6 +1,6 @@
 # Worm gear efficiency simple plot
 
-![Worm gear eff](https://raw.githubusercontent.com/Protonauta/worm-gear-efficiency/master/worm_gear_eff.png)
+![Single envelope worm gear eff](https://raw.githubusercontent.com/Protonauta/worm-gear-efficiency/master/worm_gear_eff.png)
 
 
 
